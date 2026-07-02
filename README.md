@@ -12,6 +12,9 @@ To learn more about Tsunami, visit our
 
 Read how to [contribute to Tsunami](docs/contributing.md).
 
+For a threat-record workflow that supports automated vulnerability triage and
+remediation, see the [autonomous threat record lifecycle](docs/autonomous-threat-record-lifecycle.md).
+
 ## Currently released Tsunami plugins
 
 ### Detectors
